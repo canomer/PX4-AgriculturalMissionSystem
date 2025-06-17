@@ -7,6 +7,7 @@ This project documents the development and integration of a custom PX4 flight co
 Although the work was conducted as part of a corporate internship and the source code cannot be publicly released, this repository serves as a technical overview of my contributions to PX4, illustrating my engagement with open-source systems at the kernel level.
 
 🧠 Project Highlights
+
 ✅ Developed a new agricultural mission module from scratch for PX4.
 
 ✅ Created custom MAVLink messages and integrated them via uORB to support:
