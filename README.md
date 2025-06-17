@@ -51,6 +51,7 @@ All core contributions and module designs have been documented in two comprehens
 📕 PX4 Emergency Procedures Design Document (PDF)
 
 These documents provide:
+
 * Architecture diagrams
 * Interface definitions
 * Simulation test results
@@ -58,6 +59,7 @@ These documents provide:
 * These documents were submitted and evaluated during my internship and reflect my experience integrating new features into large-scale open-source systems like PX4.
 
 🎯 Why It Matters
+
 This project represents:
 * My ability to work within large open-source ecosystems (PX4, MAVLink, QGC).
 * Proficiency with embedded systems (STM32, C++) and communication protocols.
@@ -68,8 +70,11 @@ This project represents:
 Due to corporate confidentiality, the source code cannot be published. This repository only includes design-level documentation and implementation summaries.
 
 👤 Author
+
 Can Ömer
+
 Embedded Systems & Security Enthusiast
+
 LinkedIn · https://www.linkedin.com/in/omer-can-vural/
 Email · can.omer.5306@outlook.com
 
