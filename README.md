@@ -27,13 +27,20 @@ Although the work was conducted as part of a corporate internship and the source
 ✅ Verified functionality in Gazebo simulation and on STM32-based hardware targets.
 
 🛠 Technologies Used
+
 Component	            |  Description
 -------------------------------------------------------
+
 PX4 Autopilot	        |  Open-source flight stack
+
 uORB	                |  PX4’s internal publish/subscribe middleware
+
 MAVLink	              |  Lightweight message protocol
+
 STM32                 |  FMU	Target platform
+
 QGroundControl	      |  Mission planner and telemetry tool
+
 Gazebo	              |  Simulation environment
 
 📄 Documentation
