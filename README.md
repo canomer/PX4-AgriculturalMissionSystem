@@ -1,3 +1,5 @@
+Dec 2022
+
 PX4 Autopilot Module: Agricultural Mission System & Emergency Handling
 
 This project documents the development and integration of a custom PX4 flight control module tailored for agricultural UAV missions. The module introduces spraying functionalities, dynamic mission management, and robust emergency handling procedures such as GPS failure recovery and payload monitoring.
