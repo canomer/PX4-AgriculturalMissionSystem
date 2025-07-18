@@ -33,6 +33,7 @@ Gazebo	                |  Simulation environment
 ```
 
 **Documentation**
+
 All core contributions and module designs have been documented in two comprehensive technical reports:
 - PX4 Module Creation and MAVLink Integration (PDF)
 - PX4 Emergency Procedures Design Document (PDF)
