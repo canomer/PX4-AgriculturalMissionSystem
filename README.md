@@ -8,7 +8,7 @@ Although the work was conducted as part of a corporate internship and the source
 - Developed a new agricultural mission module from scratch for PX4.
 - Created custom MAVLink messages and integrated them via uORB to support:
 
-##Features
+**Features**
 * Start/stop spraying triggers
 * Tank volume estimation
 * Dynamic mission rescheduling
@@ -27,9 +27,9 @@ Component	            |  Description
 PX4 Autopilot	        |  Open-source flight stack
 uORB	                |  PX4’s internal publish/subscribe middleware
 MAVLink	              |  Lightweight message protocol
-STM32                 |  FMU	Target platform
-QGroundControl	      |  Mission planner and telemetry tool
-Gazebo	              |  Simulation environment
+STM32                  |  FMU	Target platform
+QGroundControl	       |  Mission planner and telemetry tool
+Gazebo	               |  Simulation environment
 ```
 
 **Documentation**
