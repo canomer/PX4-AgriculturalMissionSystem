@@ -8,19 +8,18 @@ Although the work was conducted as part of a corporate internship and the source
 - Developed a new agricultural mission module from scratch for PX4.
 - Created custom MAVLink messages and integrated them via uORB to support:
 
+##Features
 * Start/stop spraying triggers
 * Tank volume estimation
 * Dynamic mission rescheduling
+* Integrated with QGroundControl for real-time telemetry and mission feedback.
+* Verified functionality in Gazebo simulation and on STM32-based hardware targets.
 
-- Designed and tested emergency handling logic for:
 
+**Designed and tested emergency handling logic for:**
 * GPS jamming and fallback scenarios
 * Sprayer malfunction detection
 * Battery-payload correlation checks
-
-- Integrated with QGroundControl for real-time telemetry and mission feedback.
-
-- Verified functionality in Gazebo simulation and on STM32-based hardware targets.
 
 ```
 Component	            |  Description
@@ -54,7 +53,7 @@ All core contributions and module designs have been documented in two comprehens
 **Disclaimer**
 Due to corporate confidentiality, the source code cannot be published. This repository only includes design-level documentation and implementation summaries.
 
-** Author**
+**Author**
 
 Can Ömer
 Embedded Systems & Security Enthusiast
