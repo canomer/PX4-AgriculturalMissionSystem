@@ -26,10 +26,10 @@ Component	            |  Description
 -------------------------------------------------------
 PX4 Autopilot	        |  Open-source flight stack
 uORB	                |  PX4’s internal publish/subscribe middleware
-MAVLink	              |  Lightweight message protocol
-STM32                  |  FMU	Target platform
-QGroundControl	       |  Mission planner and telemetry tool
-Gazebo	               |  Simulation environment
+MAVLink	                |  Lightweight message protocol
+STM32                   |  FMU	Target platform
+QGroundControl	        |  Mission planner and telemetry tool
+Gazebo	                |  Simulation environment
 ```
 
 **Documentation**
