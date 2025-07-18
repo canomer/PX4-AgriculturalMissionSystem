@@ -22,7 +22,7 @@ Although the work was conducted as part of a corporate internship and the source
 * Battery-payload correlation checks
 
 ```
-Component	       |  Description
+Component	        |  Description
 -------------------------------------------------------
 PX4 Autopilot	        |  Open-source flight stack
 uORB	                |  PX4’s internal publish/subscribe middleware
